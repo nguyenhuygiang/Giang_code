@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#background{
+    width: max-content;
+    background-color: #ccc;
+}
+#formlogin{
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom:50px;
+     
+    /* position: relative; */ 
+}
+#title{
+    text-align: center;
+    
+    /* font-weight: bold; */
+    font-family: myriad pro;
+}
+#user{
+    text-align: center;
+    
+    font-size: 17px;
+    font-family: segoe ui;
+}
+.truong-form{
+    width: 100%;
+    
+    height: 50px;
+    margin-top: 42px;
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: segoe ui;
+}
+#form-submit{
+    /* margin-bottom: 50px; */
+    background-color: #33b5e5;
+    font-size: 20px;
+    color: white;
+    /* font-weight: bolder; */
+}
+#formlogin-a{
+    text-decoration: none;
+    
+    padding-left: 188px;
+}
+#form-checkbox{
+   cursor: pointer; 
+}
+#login-form-p{
+    padding-bottom: 10px;
+    
+}
+#login-form-h3{
+    color:  #33b5e5;
+    text-align: center;
+}
+#login-form{
+    /* position: absolute; */ 
+}
+#create-form{
+  
+}
+#link-create-account{
+    text-decoration: none;
+    color: black;
+}
+#link-fogot-password{
+    text-decoration: none;
+    margin-left: 95px;
+    color: black;
+}
+#link{
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+#form-submit-create{
+    margin-bottom: 50px;
+    background-color: #33b5e5;      font-size: 20px;      color: white;
+}
